@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Example TItle
+tags:
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+---title: Example Titledraft: falsetags: - example-tag--- 
+
+The rest of your content lives here. You can use **Markdown** here :)
